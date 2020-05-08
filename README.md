@@ -21,3 +21,7 @@ with respective urls should be used in the property file
 <img width="1000" alt="API Architecture" src="https://github.com/dineschandgr/spring-security-OAuth2-Facebook/blob/master/Authorization_Code_Flow.bmp">
 
 
+
+
+You can also get the access token from postman app. use postman console or the chrome developer tools Network tab to check the request and response header/body
+
