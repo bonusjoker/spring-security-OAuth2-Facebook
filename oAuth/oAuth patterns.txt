@@ -8,3 +8,7 @@ Access Token
 Access Token only. No authorization token
 
 used for javascript apps for short lived access tokens
+
+3. Client Credentials Flow
+
+used for microservices and other things like cron jobs which does not need user intervention
