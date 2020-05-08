@@ -1,0 +1,10 @@
+1. Code Flow
+
+Authorization Token
+Access Token
+
+2. Implicit Flow
+
+Access Token only. No authorization token
+
+used for javascript apps for short lived access tokens
