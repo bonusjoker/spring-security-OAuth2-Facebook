@@ -15,7 +15,7 @@ oauth2 authorization code flow using Facebook as Authorization and Resource serv
 9. Now the client uses the access token to the facebook resource server to request the user data from facebook
 10. Here facebook is both the Authorization and Resource server. In some cases, both the servers can be separate entities
 
-Similarly, the client app can be created in amny platforms like Github, Google, Okta etc and the respective client id and client secret along
+Similarly, the client app can be created in many platforms like Github, Google, Okta etc and the respective client id and client secret along
 with respective urls should be used in the property file
 
 <img width="1000" alt="API Architecture" src="https://github.com/dineschandgr/spring-security-OAuth2-Facebook/blob/master/Authorization_Code_Flow.bmp">
